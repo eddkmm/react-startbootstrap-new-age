@@ -1,0 +1,34 @@
+{
+  "name": "react-startbootstrap-new-age",
+  "version": "1.0.0",
+  "description": "A one page app landing page HTML theme for Bootstrap, integrated into React.js",
+  "keywords": [
+    "css",
+    "html",
+    "responsive",
+    "theme",
+    "template",
+    "react"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd app && npm run build",
+    "start": "cd app && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddkmm/react-startbootstrap-new-age.git"
+  },
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)",
+    "Edd Kim"
+  ],
+  "bugs": {
+    "url": "https://github.com/eddkmm/react-startbootstrap-new-age/issues"
+  },
+  "homepage": "https://github.com/eddkmm/react-startbootstrap-new-age/#readme"
+}
